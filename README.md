@@ -77,7 +77,7 @@ from last 30 days for given currency (if not set than BTC is used as a default o
 
 There are also two helper methods:
 
-- is_response_ok?(body) - returns true if FaucetBox respone has status: 200
+- is_response_ok?(body) - returns true if FaucetBox response has status: 200
 - is_address_valid?(address) - checks if given coin address is valid (proper length, correct checksum, etc.)
 
 

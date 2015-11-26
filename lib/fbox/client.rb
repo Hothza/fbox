@@ -136,7 +136,6 @@ module Fbox
       end
 
       def request(path, form_params = {})
-        puts "\nREQ: #{path}"
         @request_client.request(:post, path, '', default_headers(), form_params)
       end
 
