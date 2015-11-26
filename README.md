@@ -72,8 +72,14 @@ Fbox has four FaucetBox API releated methods:
 
 - payouts(count = 1, currency = '') - returns list of payouts (no more than 10)
 from last 30 days for given currency (if not set than BTC is used as a default one)
+*WARNING:* This API call gives timeouts - use with care (it is probably disabled on FaucetBox)
 
-WARNING: This API call gives timeouts - use with care (it is probably disabled on FaucetBox)
+
+There are also two helper methods:
+
+- is_response_ok?(body) - returns true if FaucetBox respone has status: 200
+- is_address_valid?(address) - checks if given coin address is valid (proper length, correct checksum, etc.)
+
 
 ## Contributing
 
