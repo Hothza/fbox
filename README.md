@@ -5,6 +5,14 @@ to integrate FaucetBox API in an easy way in your RubyOnRails application.
 
 Build status: [![Build Status](https://travis-ci.org/Hothza/fbox.svg)](https://travis-ci.org/Hothza/fbox)
 
+If you find this gem useful please send few coins for coffee:
+
+- BTC: 1HRqmR2dbuHKeNWp478W77NxLzPi63QoKi
+- LTC: LUzmQEYEMHxh7Q8JWh3vjW2BYCGd8VxANF
+- DASH: XtPu4gA71zMdp37x3XiYdG2U25UA85Gq1w
+
+Thank you! :)
+
 ## Installation
 
 Add this line to your application's Gemfile:
