@@ -1,9 +1,7 @@
-# Fbox
+# Fbox [![Build Status](https://travis-ci.org/Hothza/fbox.svg)](https://travis-ci.org/Hothza/fbox) [![Gem Version](https://badge.fury.io/rb/fbox.svg)](https://badge.fury.io/rb/fbox)
 
 This gem is a [FaucetBox](https://faucetbox.com) REST API helper. It allows you
 to integrate FaucetBox API in an easy way in your RubyOnRails application.
-
-Build status: [![Build Status](https://travis-ci.org/Hothza/fbox.svg)](https://travis-ci.org/Hothza/fbox)
 
 If you find this gem useful please send few coins for coffee:
 
@@ -51,7 +49,7 @@ Fbox has four FaucetBox API releated methods:
     require 'fbox'
     
     # Unfortunately at this moment API key used in examples on FaucetBox site
-    # gives 403 status, so you have tou use your own
+    # gives 403 status, so you have to use your own
     
     api_key = '4VdBEIAQKPpZ4SWOhQLUMn7mMNVql' # Put your API key here
     currency = 'BTC'
