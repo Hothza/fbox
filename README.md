@@ -1,4 +1,4 @@
-# Fbox [![Build Status](https://travis-ci.org/Hothza/fbox.svg)](https://travis-ci.org/Hothza/fbox) [![Gem Version](https://badge.fury.io/rb/fbox.svg)](https://badge.fury.io/rb/fbox)
+# Fbox [![Build Status](https://travis-ci.org/Hothza/fbox.svg)](https://travis-ci.org/Hothza/fbox) [![Gem Version](https://badge.fury.io/rb/fbox.svg)](https://badge.fury.io/rb/fbox) [![Test Coverage](https://codeclimate.com/github/Hothza/fbox/badges/coverage.svg)](https://codeclimate.com/github/Hothza/fbox/coverage)
 
 This gem is a [FaucetBox](https://faucetbox.com) REST API helper. It allows you
 to integrate FaucetBox API in an easy way in your RubyOnRails application.
