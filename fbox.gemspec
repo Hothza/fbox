@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "fbox"
   spec.version       = Fbox::VERSION
   spec.authors       = ["Hothza"]
-  spec.email         = ["hothza@users.noreply.github.com"]
+  spec.email         = ["hothza@gmx.com"]
 
 #  if spec.respond_to?(:metadata)
 #    spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com' to prevent pushes to rubygems.org, or delete to allow pushes to any server."
